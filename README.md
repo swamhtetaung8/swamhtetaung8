@@ -1,8 +1,8 @@
 # Hi, I'm Swam Htet Aung :wave:
 
-**I am a front end web developer !**
+**I am a web developer !**
 
-- :computer:  Working with HTML, CSS, JavaScript, Bootstrap, Tailwind,React,NextJs,Redux Toolkit for frontend web design
+- :computer:  Working with HTML, CSS, JavaScript, Bootstrap, Tailwind,React,NextJs,Redux Toolkit for frontend web design and PHP for backend.
 - :books:  Currently studying TypeScript,NextJs for frontend and NodeJs, Laravel for backend.
 - :memo:  Also learning UI UX Design with Figma.
 - :video_game:  Loves gaming and sports.
