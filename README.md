@@ -4,7 +4,6 @@
 
 - :computer:  Working with HTML, CSS, JavaScript, Bootstrap, Tailwind,React,NextJs,Redux Toolkit for frontend web design and PHP for backend.
 - :books:  Currently studying TypeScript,NextJs for frontend and NodeJs, Laravel for backend.
-- :memo:  Also learning UI UX Design with Figma.
 - :video_game:  Loves gaming and sports.
 
 **Contact Me**
