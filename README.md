@@ -2,8 +2,8 @@
 
 **I am a web developer !**
 
-- :computer:  Working with HTML, CSS, JavaScript, Bootstrap, Tailwind,React,NextJs,Redux Toolkit for frontend web design and PHP for backend.
-- :books:  Currently studying TypeScript,NextJs for frontend and NodeJs, Laravel for backend.
+- :computer:  React,Tailwind,NextJs,Redux Toolkit for frontend web design and PHP,Laravel for backend.
+- :books:  Currently studying TypeScript,NextJs for frontend and NodeJs, more about Laravel for backend.
 - :video_game:  Loves gaming and sports.
 
 **Contact Me**
