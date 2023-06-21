@@ -13,4 +13,4 @@
 **Languages and Tools**
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,sass,react,nextjs,ts,tailwind,php,laravel,figma,git,github,gitlab,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?react,redux,nextjs,ts,tailwind,php,laravel,bootstrap,figma,git,github,gitlab,vscode)](https://skills.thijs.gg)
