@@ -5,4 +5,4 @@
 **Languages and Tools**
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nextjs,tailwind,nodejs,php,laravel,bootstrap,figma,git,github,gitlab,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,tailwind,nodejs,php,laravel,bootstrap,java,figma,git,github,gitlab,vscode,eclipse)](https://skills.thijs.gg)
